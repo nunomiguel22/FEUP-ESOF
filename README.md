@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # FEUP-ESOF
-=======
+
 # Conference-Connect
 
 ![alt text][mbsimple]
